@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/crio-chinmayhota222/static/css/main.5db1380d.chunk.css",
+    "main.js": "/crio-chinmayhota222/static/js/main.830080f9.chunk.js",
+    "main.js.map": "/crio-chinmayhota222/static/js/main.830080f9.chunk.js.map",
+    "runtime-main.js": "/crio-chinmayhota222/static/js/runtime-main.da908f09.js",
+    "runtime-main.js.map": "/crio-chinmayhota222/static/js/runtime-main.da908f09.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/crio-chinmayhota222/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.c400e3b6.chunk.js": "/crio-chinmayhota222/static/js/2.c400e3b6.chunk.js",
+    "static/js/2.c400e3b6.chunk.js.map": "/crio-chinmayhota222/static/js/2.c400e3b6.chunk.js.map",
+    "index.html": "/crio-chinmayhota222/index.html",
+    "precache-manifest.4ca74891802d7f18f2e8aba10f9584a8.js": "/crio-chinmayhota222/precache-manifest.4ca74891802d7f18f2e8aba10f9584a8.js",
+    "service-worker.js": "/crio-chinmayhota222/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/crio-chinmayhota222/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/crio-chinmayhota222/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.c400e3b6.chunk.js.LICENSE.txt": "/crio-chinmayhota222/static/js/2.c400e3b6.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/crio-chinmayhota222/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/crio-chinmayhota222/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da908f09.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.c400e3b6.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.830080f9.chunk.js"
+  ]
+}
